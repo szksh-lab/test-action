@@ -3,5 +3,5 @@ description: Hello
 runs:
   using: composite
   steps:
-    - run: echo hello
+    - run: echo Yo
       shell: bash
